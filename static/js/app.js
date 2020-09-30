@@ -1,4 +1,4 @@
-const path = "/js/samples.json";
+const path = "samples.json";
 
 function pageInit() {
   var dataSelector = d3.select("#selDataset")
